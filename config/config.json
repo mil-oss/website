@@ -1,0 +1,8 @@
+{
+    "project":"MIL OSS Web Site",
+    "title":"Military Open Source Software Web Site",
+    "pckg": "https://miloss.org/dload",
+    "root": "https://miloss.org/",
+    "host": "https://miloss.org/",
+    "port":":8080"
+}
